@@ -25,3 +25,6 @@ A beginner-friendly project that combines **Python** and **SQL (SQLite)** to man
 ```bash
 python -m venv .venv
 .venv\Scripts\activate
+## Charts
+![Revenue per Day](docs/revenue_per_day.png)
+![Top Products](docs/top_products.png)
